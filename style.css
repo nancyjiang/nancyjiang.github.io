@@ -1,7 +1,8 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
+  font-family: 'helvetica neue', helvetica, sans-serif;
+  color: #ffffff;
   font-weight: 300;
-  background: url(background.jpg) repeat;
+  background: url(background2.png) repeat;
 }
 #wrapper {
   width: 960px;
