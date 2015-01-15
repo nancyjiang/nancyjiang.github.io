@@ -1,11 +1,12 @@
 body {
   font-family: 'helvetica neue', helvetica, sans-serif;
   font-weight: 300;
-  background: url(../img/background.jpg) repeat;
+  background: url(../img/dbackground.png) repeat;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto;
+  background-color: white
 }
 .horizontal {
   list-style-type: none;
@@ -13,4 +14,7 @@ body {
 .horizontal li {
   display: inline;
   margin: 1em;
+}
+ .horizontal li a { 
+   color: black;
 }
