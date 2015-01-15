@@ -6,7 +6,11 @@ body {
 #wrapper {
   width: 960px;
   margin: 20px auto;
-  background-color: white
+  padding: 4em;
+  background-color: white;
+  text-align: center;
+  border-radius: 2em;
+
 }
 .horizontal {
   list-style-type: none;
