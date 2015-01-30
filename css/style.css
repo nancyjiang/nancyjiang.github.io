@@ -1,6 +1,6 @@
 
 body {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Questrial', sans-serif;
   font-weight: 300;
   background: url(../img/dbackground.png) repeat;
 }
@@ -12,7 +12,6 @@ body {
   text-align: center;
   border-radius: 2em;
 }
-
 
 .horizontal {
   list-style-type: none;
