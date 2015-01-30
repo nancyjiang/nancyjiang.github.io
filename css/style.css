@@ -1,5 +1,6 @@
+
 body {
-  font-family: 'helvetica neue', helvetica, sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 300;
   background: url(../img/dbackground.png) repeat;
 }
@@ -10,13 +11,9 @@ body {
   background-color: white;
   text-align: center;
   border-radius: 2em;
-
-#title{
-  font-family: 'Playfair Display', serif;
-  font-size: 60px;
 }
 
-}
+
 .horizontal {
   list-style-type: none;
   padding-left: 0px !important;
